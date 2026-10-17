@@ -1,0 +1,24 @@
+CSC card photo sources
+
+These photos are bundled locally in assets/ and served from this site. Each photo's Unsplash page states it is free to use under the Unsplash License.
+
+- csc-banking.jpg — Atlantic Money, “A person holding a smart phone in their hand”: https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-j6LFEedJ2FM
+- csc-payment.jpg — Vitaly Gariev, “Woman looking at phone with credit card in hand”: https://unsplash.com/photos/woman-looking-at-phone-with-credit-card-in-hand-93niCN_dqJM
+- csc-office.jpg — Vitaly Gariev, “Woman on phone at desk with laptop and books”: https://unsplash.com/photos/woman-on-phone-at-desk-with-laptop-and-books-3IdYKyLEjXo
+- csc-education.jpg — Ashutosh Gupta, “Focused student studying at a library table with a laptop”: https://unsplash.com/photos/focused-student-studying-at-a-library-table-with-a-laptop-NASjMHJ9OhI
+- csc-documents.jpg — Kelly Sikkema, “Passport on clipboard”: https://unsplash.com/photos/passport-on-clipboard--NY2yXT2EOE
+- csc-advice.jpg — Vitaly Gariev, “Woman in suit shows document to man”: https://unsplash.com/photos/woman-in-suit-shows-document-to-man-2AOIg7Qvu8w
+- csc-computer.jpg — Anton Savinov, “A man sitting at a desk in front of a laptop computer”: https://unsplash.com/photos/a-man-sitting-at-a-desk-in-front-of-a-laptop-computer-AtS6J87PRs0
+- csc-workspace.jpg — Yen Vu, “Desk with open book, laptop, and study materials”: https://unsplash.com/photos/desk-with-open-book-laptop-and-study-materials-HNjWq8WPyoY
+Additional service photos
+
+These images are included locally in assets/ rather than hotlinked. The referenced Pexels photo pages mark the images free to use under the Pexels license: https://www.pexels.com/license/. Images are illustrative and do not depict Rana Typing staff or endorse this business.
+
+- extra-advocate.jpg — Sora Shimazaki, “Male lawyer working on laptop in office”: https://www.pexels.com/photo/male-lawyer-working-on-laptop-in-office-5668791/
+- extra-certified-copy.jpg — Ylanite Koppens, “Desk with Documents and Stamps”: https://www.pexels.com/photo/desk-with-documents-and-stamps-18687845/
+- extra-web-design.jpg — George Milton, “Woman working on laptop and graphic tablet”: https://www.pexels.com/photo/crop-faceless-woman-working-on-laptop-and-graphic-tablet-7015034/
+- extra-website.jpg — Feyza Yıldırım, “Laptop displaying a photographer website”: https://www.pexels.com/photo/photgrapher-name-on-laptop-screen-19876064/
+- extra-android-app.jpg — Firos nv, “Smartphone beside a laptop and coding screen”: https://www.pexels.com/photo/a-close-up-shot-of-a-smartphone-beside-a-laptop-8171308/
+- extra-electrician.jpg — Bulat843, “Electrician repairing equipment in a workshop”: https://www.pexels.com/photo/electrician-repairing-electrical-equipment-in-workshop-32588553/
+- extra-carpenter.jpg — GOWTHAM AGM, “Carpenter working with wood in a workshop”: https://www.pexels.com/photo/a-carpenter-working-with-wood-in-a-workshop-18947396/
+- extra-lithium-battery.jpg — Sevenethics, “18650 and 21700 lithium ion battery cells”: https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg (CC0 1.0 public-domain dedication).
